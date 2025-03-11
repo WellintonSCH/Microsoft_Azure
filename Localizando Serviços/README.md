@@ -7,7 +7,6 @@ Neste laboratório, tive o primeiro contato com o portal de serviços do Azure, 
 ### 1. Personalização da Visualização
 - Aprendi a personalizar a visualização do portal do Azure para melhor atender às minhas necessidades. Isso inclui:
   - Reorganizar os painéis.
-  - Adicionar ou remover widgets.
   - Ajustar as configurações de exibição para focar nas informações mais relevantes.
 
 ### 2. Localização de Serviços por Categoria
