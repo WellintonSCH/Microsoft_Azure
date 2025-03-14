@@ -17,3 +17,5 @@ Com a IaaS, não é necessário comprar e gerenciar servidores físicos e infrae
 
 ## **Conclusão**
 Cada modelo de serviço atende a diferentes necessidades empresariais e técnicas. O SaaS é ideal para usuários finais, o PaaS para desenvolvedores e o IaaS para administradores de infraestrutura, proporcionando escalabilidade, flexibilidade e eficiência na nuvem.
+
+![image](https://github.com/user-attachments/assets/8c89cf70-36fa-47ed-badf-b95ce0d0c5c7)
