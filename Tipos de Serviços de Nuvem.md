@@ -39,4 +39,4 @@ Segue abaixo um diagrama da Microsoft ilustrando os níveis de gerenciamento em 
 ![image](https://github.com/user-attachments/assets/fd59adb5-6779-4201-9612-6a7a32f0dfee)
 
 ## Conclusão
-A escolha entre SaaS, PaaS e IaaS depende das necessidades do usuário e do nível de controle desejado. Enquanto SaaS oferece conveniência, IaaS permite maior personalização, e PaaS equilibra flexibilidade com facilidade de uso. No **Microsoft Azure**, esses serviços são amplamente utilizados para otimizar soluções em nuvem.
+A escolha entre SaaS, PaaS e IaaS depende das necessidades do usuário e do nível de controle desejado. Enquanto SaaS oferece conveniência, IaaS permite maior personalização, e PaaS equilibra flexibilidade com facilidade de uso.
